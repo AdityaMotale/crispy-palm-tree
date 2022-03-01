@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crispy-palm-tree/static/css/main.6536d477.css",
+    "main.js": "/crispy-palm-tree/static/js/main.2f2f167b.js",
+    "index.html": "/crispy-palm-tree/index.html",
+    "main.6536d477.css.map": "/crispy-palm-tree/static/css/main.6536d477.css.map",
+    "main.2f2f167b.js.map": "/crispy-palm-tree/static/js/main.2f2f167b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6536d477.css",
+    "static/js/main.2f2f167b.js"
+  ]
+}
